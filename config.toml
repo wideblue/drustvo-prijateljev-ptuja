@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://wideblue.github.io/drustvo-prijateljev-ptuja/"
 title = ""
 languageCode = "sl-si"
 paginate = "10" # Number of posts per page
