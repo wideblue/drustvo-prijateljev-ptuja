@@ -1,7 +1,7 @@
 ---
 title: "NOVICE št. 37 - MAREC 2017"
 date: 2018-05-04T11:40:30+02:00
-draft: true
+draft: false
 ---
 
 Člani upravnega odbora DPP so na sestanku 20.2.2017 ocenili delovanje v preteklem letu ter poleg druženja članov, izpostavili zlasti prizadevanja posameznih članov društva  pri povezovanju mestne občine Ptuj z državnimi organi pri iskanju rešitev pomembnih odprtih vprašanj, ki zadevajo mestno občino ( arheološki park Panorama, ptujski urgentni center).

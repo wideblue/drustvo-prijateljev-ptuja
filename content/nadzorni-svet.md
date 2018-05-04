@@ -1,7 +1,7 @@
 ---
 title: "Nadzorni Svet"
 date:
-draft: true
+draft: false
 ---
 
 Predsednik: **Milan Kneževič**

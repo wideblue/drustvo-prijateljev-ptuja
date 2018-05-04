@@ -1,7 +1,7 @@
 ---
 title: "Statut društva"
 date:
-draft: true
+draft: false
 markdown: "mmark"
 ---
 

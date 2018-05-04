@@ -1,7 +1,7 @@
 ---
 title: "NOVICE št. 38 - MAJ 2017"
 date: 2018-05-04T11:43:34+02:00
-draft: true
+draft: false
 ---
 
 Na skupščini 27.3.2017 smo pozitivno ocenili delo društva v preteklem letu in sprejeli program dela za leto 2017.
