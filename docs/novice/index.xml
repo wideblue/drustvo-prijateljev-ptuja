@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Novices on </title>
-    <link>/novice/</link>
+    <link>https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/</link>
     <description>Recent content in Novices on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-si</language>
     <lastBuildDate>Fri, 04 May 2018 11:43:34 +0200</lastBuildDate>
     
-	<atom:link href="/novice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NOVICE št. 38 - MAJ 2017</title>
-      <link>/novice/novica-38/</link>
+      <link>https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/novica-38/</link>
       <pubDate>Fri, 04 May 2018 11:43:34 +0200</pubDate>
       
-      <guid>/novice/novica-38/</guid>
+      <guid>https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/novica-38/</guid>
       <description>Na skupščini 27.3.2017 smo pozitivno ocenili delo društva v preteklem letu in sprejeli program dela za leto 2017.
 Člani društva so med razpravo ugotovili tudi, da veliko število članov ne plačuje članarine, zato so sprejeli sklep, da se iz članstva izločijo vsi, ki je vsaj tri leta zaporedoma niso plačali.
 Upravni odbor je, kot eno izmed nalog iz programa dela, pripravil izlet v Rogaško Slatino in okolico.
@@ -25,10 +25,10 @@ Vljudno vabljeni na izlet, ki bo 3.</description>
     
     <item>
       <title>NOVICE št. 37 - MAREC 2017</title>
-      <link>/novice/test/</link>
+      <link>https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/test/</link>
       <pubDate>Fri, 04 May 2018 11:40:30 +0200</pubDate>
       
-      <guid>/novice/test/</guid>
+      <guid>https://wideblue.github.io/drustvo-prijateljev-ptuja/novice/test/</guid>
       <description>Člani upravnega odbora DPP so na sestanku 20.2.2017 ocenili delovanje v preteklem letu ter poleg druženja članov, izpostavili zlasti prizadevanja posameznih članov društva pri povezovanju mestne občine Ptuj z državnimi organi pri iskanju rešitev pomembnih odprtih vprašanj, ki zadevajo mestno občino ( arheološki park Panorama, ptujski urgentni center).
 Kot vsako leto, tudi letos pripravljamo občni zbor društva, ki bo 27.3.2017 ob 18. uri v prostorih M- hotela z naslednjim dnevnim redom:</description>
     </item>
