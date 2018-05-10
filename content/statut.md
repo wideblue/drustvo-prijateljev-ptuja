@@ -3,6 +3,9 @@ title: "Statut društva"
 date:
 draft: false
 markdown: "mmark"
+menu:
+    main:
+        weight: -5
 ---
 
 Na podlagi 8. člena Zakona o društvih (Ur.1. RS št. 60/95) ter Sprememb in dopolnitev Zakona o društvih (Ur.1. RS, št. 49/98 in št. 89/99) so udeleženci seje ustanovne skupščine društva sprejeli naslednja Pravila Društva prijateljev Ptuja, na skupščini društva 14.3. 2008 pa dopolnili kot sledi:
