@@ -1,5 +1,8 @@
 # Mainroad
 
+**This is a fork [Mainroad theme](https://github.com/Vimux/Mainroad/)**
+Changes to the theme can be seen in commits of type: `theme-style`
+
 **Mainroad** is a responsive, simple, clean and content-focused [Hugo](https://gohugo.io/) theme based on the [MH Magazine lite](https://wordpress.org/themes/mh-magazine-lite/) WordPress theme by [MH Themes](https://www.mhthemes.com/).
 
 **[Alternate Demo (Best)](https://hugothemes.gitlab.io/mainroad/)** | [Standart Demo](https://themes.gohugo.io/theme/mainroad/)

@@ -14,6 +14,7 @@ publishDir = "docs"
     avatar = ""
 
 [Params]
+    bannerImgSrc = "/img/pasica.jpg" # Src path for banner image
     bannerImgAlt = "Društvo prijateljev Ptuja" # Alt text for banner image
     subtitle = "" # Subtitle of your site. Used in site header
     description = " John Doe's Personal blog about everything" # Description of your site. Used in meta description

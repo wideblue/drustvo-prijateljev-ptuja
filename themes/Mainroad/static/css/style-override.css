@@ -1,0 +1,87 @@
+
+.logo {
+
+    padding: 0;
+
+}
+
+.btn:hover {
+	background: #fe0002;
+}
+
+a:hover {
+	color: #fe0002;
+}
+
+blockquote {
+	border-left: 5px solid #fe0002;
+}
+
+.logo__tagline {
+	color: #fe0002;
+}
+
+.divider {
+	background: #fe0002;
+}
+
+.menu {
+    border-bottom: 5px solid #fe0002;
+    border-top: 5px solid #2a2a2a;
+}
+
+.opened.menu__list {
+	border-top: 1px solid #fe0002;
+}
+
+.menu__item:hover {
+	background: #fe0002;
+}
+
+.menu__item--active {
+	background: #fe0002;
+}
+
+.meta a:hover {
+	color: #fe0002;
+}
+
+.post__content a,
+.warning a {
+	color: #fe0002;
+}
+
+.post__content a:hover,
+.warning a:hover {
+	color: #fe0002;
+}
+
+.tags__item:hover {
+	background: #fe0002;
+}
+
+.icon-tag {
+    background: #fe0002;
+}
+
+.pagination__item:hover,
+.pagination__item--current {
+	background: #fe0002;
+}
+
+
+input[type=text]:hover,
+input[type=email]:hover,
+input[type=tel]:hover,
+input[type=url]:hover,
+textarea:hover {
+	border: 1px solid #fe0002;
+}
+
+input[type=submit] {
+	background: #fe0002;
+}
+
+.widget__title {
+    border-bottom: 3px solid #fe0002;
+}
