@@ -9,7 +9,6 @@ draft: false
 
 Kot vsako leto, tudi letos pripravljamo **občni zbor društva, ki bo 27.3.2017 ob 18. uri v prostorih M- hotela** z naslednjim **dnevnim redom**:
 
-
 1.    izvolitev organov skupščine,
 2.    poročilo predsednika, blagajnika in nadzornega odbora,
 3.    razprava o poročilih,
@@ -27,3 +26,4 @@ Kot vsako leto, tudi letos pripravljamo **občni zbor društva, ki bo 27.3.2017 
 
 
 **Novicam prilagamo položnico za članarino, ki ostaja 10 evrov. Poravnate  jo lahko tudi na občnem zboru.**
+<!--more-->
