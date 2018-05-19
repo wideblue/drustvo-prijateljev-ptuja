@@ -1,0 +1,8 @@
+<script type="text/javascript">// <![CDATA[
+    // Just a way to hide your email address, at least we try (base64)
+
+    var liame ='{{.naslov}}';
+    var liameHREF ='{{ (print "href=\"mailto:")  | base64Encode }}';
+    document.write('<a  class="{{ .class }}"' + atob(liameHREF) + atob(liame) + '" target="_blank">' + atob(liame) + '<\/a>')
+
+    // ]]></script>

@@ -28,13 +28,16 @@ publishDir = "docs"
     #postSections = ["blog", "news"] # alternative that shows more than one section's pages
     #dateformat = "2006-01-02" # change the format of dates
 
+
+
 [Params.widgets]
     search = false # Enable "Search" widget
     recent_articles = true # Enable "Recent articles" widget
     recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
     categories = true # Enable "Categories" widget
-    tags = false # Enable "Tags" widget
+    tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+    preserveTaxonomyNames = true #  if you want to have a taxonomy term with special characters
 
 [menu]
     [[menu.main]]
