@@ -1,15 +1,11 @@
 ---
-title: "Novice 42"
+title: "NOVICE št. 42 - OKTOBER 2018"
 date: 2018-10-22T12:01:42+02:00
 draft: false
 tags:
   - "Izlet"
   - "Novice"
 ---
-
-
-**NOVICE št. 42, OKTOBER  2018**
-
 
 
 Upravni odbor Društva prijateljev Ptuja je na seji, dne 16. oktobra ocenil izvedbo junijskega izleta v Brežice, Dobovo, Bizeljsko, Sevnico in Deželo kozolcev v Šentrupertu kot zelo uspelega, saj so bili odzivi samo pozitivni.
