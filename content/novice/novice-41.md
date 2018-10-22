@@ -18,6 +18,7 @@ Občni zbor Društva prijateljev Ptuja je bil 27.3.2018,  ob 18.00 uri, v prosto
 **častno razsodišče:** Stane Sočan (predsednik), Rudi Ročak in Marta Rau (člana).
 
 Pred nami je zopet vsakoletni izlet, ki bo **16. junija 2018.**
+<!--more-->
 
 **Program izleta:**
 
@@ -37,5 +38,5 @@ Pred nami je zopet vsakoletni izlet, ki bo **16. junija 2018.**
 Prijave zbira tajnik društva Anton Dvoršek na tel. št. 031 692 601, ali elektronski naslov {{% kodiran-naslov naslov="YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp" %}},
 
 **do 10. junija,** oziroma do zasedbe avtobusa. Prispevek udeleženca je 30 evrov in vključuje prevoz, vse vstopnine, degustacijo in večerjo, razliko stroškov krije društvo.
-<!--more-->
+
 

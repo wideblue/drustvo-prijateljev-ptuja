@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/novice/novice-42/</loc>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/novice/novice-41/</loc>
     <lastmod>2018-06-01T12:05:43+02:00</lastmod>
   </url>
@@ -64,7 +69,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +80,7 @@
   
   <url>
     <loc>/tags/izlet/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,13 +94,13 @@
   
   <url>
     <loc>/tags/novice/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/novice/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +116,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
+    <lastmod>2018-10-22T12:01:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
