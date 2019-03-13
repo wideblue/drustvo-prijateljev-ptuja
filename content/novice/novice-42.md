@@ -31,4 +31,3 @@ Program je naslednji:
 Cena izleta je 25 evrov in zajema stroške vožnje, ogledov, hrane in pijače.
 
 Prijave sprejema Anton Dvoršek na E- pošto {{% kodiran-naslov naslov="YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp" %}} ali tel.: 031 692 601 **do 5.11.2018.**
-<!--more-->
