@@ -9,7 +9,7 @@ tags:
 
 Zbor Društva prijateljev Ptuja je bil 27.3.2019,  ob 18.00 uri, v prostorih M-hotela. Po obširni debati o delu društva, tako programskem in finančnem, smo menili, da je bilo uspešno.
 
-Društvo tudi v prihodnje ohranja nekatere tradicionalne dejavnosti, med katere sodi tudi vsakoletni izlet, ki bo v soboto, **15. junija**** 2019.**
+Društvo tudi v prihodnje ohranja nekatere tradicionalne dejavnosti, med katere sodi tudi vsakoletni izlet, ki bo v soboto, **15. junija 2019.**
 
 Program izleta **» POTEPANJE PO HALOZAH » :**
 
