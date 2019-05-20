@@ -57,4 +57,3 @@ vabljeni na občni zbor, ki bo 27.3.2019 ob 18.uri v M-hotelu.**
 
 **Novicam prilagamo položnico
 za članarino, ki ostaja 10 evrov. Poravnate  jo lahko tudi na zboru.**
-<!--more-->
