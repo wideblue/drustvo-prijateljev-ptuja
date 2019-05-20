@@ -65,14 +65,15 @@
 
 &lt;p&gt;19.00  Povratek v Ljubljano&lt;/p&gt;
 
-&lt;p&gt;Prijave zbira tajnik društva Anton Dvoršek na tel. št. 031 692 601, ali elektronski naslov &lt;script type=&#34;text/javascript&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Prijave zbira tajnik društva Anton Dvoršek na tel. št. 031 692 601, ali elektronski naslov
+&lt;script type=&#34;text/javascript&#34;&gt;
+    
 
-&lt;pre&gt;&lt;code&gt;var liame =&#39;YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp&#39;;
-var liameHREF =&#39;aHJlZj0ibWFpbHRvOg==&#39;;
-document.write(&#39;&amp;lt;a  class=&amp;quot;&amp;quot;&#39; + atob(liameHREF) + atob(liame) + &#39;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&#39; + atob(liame) + &#39;&amp;lt;\/a&amp;gt;&#39;)
+    var liame =&#39;YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp&#39;;
+    var liameHREF =&#39;aHJlZj0ibWFpbHRvOg==&#39;;
+    document.write(&#39;&lt;a  class=&#34;&#34;&#39; + atob(liameHREF) + atob(liame) + &#39;&#34; target=&#34;_blank&#34;&gt;&#39; + atob(liame) + &#39;&lt;\/a&gt;&#39;)
 
-&amp;lt;/script&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+    &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;do 10. junija,&lt;/strong&gt; oziroma do zasedbe avtobusa. Prispevek udeleženca je 30 evrov in vključuje prevoz, vse vstopnine, degustacijo in večerjo, razliko stroškov krije društvo.&lt;/p&gt;</description>
     </item>
