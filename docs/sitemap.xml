@@ -3,15 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/novice/preklic-novice-46/</loc>
+    <lastmod>2020-03-17T20:29:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/izlet/</loc>
-    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/novice/novice-46/</loc>
+    <lastmod>2020-03-17T18:46:30+01:00</lastmod>
   </url>
   
   <url>
@@ -20,32 +18,8 @@
   </url>
   
   <url>
-    <loc>/tags/novice/</loc>
-    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/novice/</loc>
-    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/novice/novice-43/</loc>
     <lastmod>2019-03-13T13:26:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vo%C5%A1%C4%8Dilo/</loc>
-    <lastmod>2018-12-28T11:33:27+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,12 +35,6 @@
   <url>
     <loc>/novice/novice-41/</loc>
     <lastmod>2018-06-01T12:05:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ob%C4%8Dni-zbor/</loc>
-    <lastmod>2018-06-01T12:05:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -125,7 +93,19 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-03-17T20:29:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/izlet/</loc>
+    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,7 +118,37 @@
   </url>
   
   <url>
+    <loc>/tags/novice/</loc>
+    <lastmod>2020-03-17T20:29:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/novice/</loc>
+    <lastmod>2020-03-17T20:29:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ob%C4%8Dni-zbor/</loc>
+    <lastmod>2020-03-17T20:29:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/statut/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-20T14:10:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vo%C5%A1%C4%8Dilo/</loc>
+    <lastmod>2018-12-28T11:33:27+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
