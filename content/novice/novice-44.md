@@ -51,4 +51,3 @@ Prijave zbira tajnik društva Anton Dvoršek na tel. št. 031 692 601, ali elekt
 {{<  kodiran-naslov naslov="YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp" >}}
 
 **do 10. junija,** oziroma do zasedbe avtobusa. Prispevek udeleženca je 30 evrov in vključuje prevoz, vse vstopnine, degustacijo in večerjo, razliko stroškov krije društvo.
-<!--more-->

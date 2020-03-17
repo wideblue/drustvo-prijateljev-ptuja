@@ -17,7 +17,7 @@ Na zbor bosta povabljena tudi županja mestne občine Ptuj Nuška Gajšek in let
 
 **1. izvolitev organov zbora,**
 
-**2. poročilo predsednika, blagajnika in nadzornega odbora, z razpravo o                          **  **poročilih,**
+**2. poročilo predsednika, blagajnika in nadzornega odbora, z razpravo o  poročilih,**
 
 **3. predlog programa dela,**
 
