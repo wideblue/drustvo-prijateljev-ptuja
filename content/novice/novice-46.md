@@ -38,4 +38,4 @@ Sledil bo pogovor s Stojanom Kerblerjem, ki ga bo vodila Branka Bezeljak.
 **Novicam prilagamo položnico za članarino, ki ostaja 10 evrov. Poravnate  jo lahko tudi na zboru.**
 
 **MOREBITNA ODPOVED ZBORA /ZARADI PREPOVEDI JAVNIH ZBOROVANJ/ BO OBJAVLJENA NA SPLETNI STRANI DRUŠTVA  www.dp-ptuj.org**
-<!--more-->
+
