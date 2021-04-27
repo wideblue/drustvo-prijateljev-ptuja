@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -6,10 +6,28 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-si</language>
-    <lastBuildDate>Mon, 20 May 2019 14:10:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 12:33:37 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Novice</title>
+      <link>/tags/novice/</link>
+      <pubDate>Tue, 27 Apr 2021 12:33:37 +0200</pubDate>
+      
+      <guid>/tags/novice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Občni zbor</title>
+      <link>/tags/ob%C4%8Dni-zbor/</link>
+      <pubDate>Tue, 27 Apr 2021 12:33:37 +0200</pubDate>
+      
+      <guid>/tags/ob%C4%8Dni-zbor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Izlet</title>
@@ -17,24 +35,6 @@
       <pubDate>Mon, 20 May 2019 14:10:44 +0200</pubDate>
       
       <guid>/tags/izlet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novice</title>
-      <link>/tags/novice/</link>
-      <pubDate>Wed, 27 May 2020 22:37:36 +0200</pubDate>
-      
-      <guid>/tags/novice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Občni Zbor</title>
-      <link>/tags/ob%C4%8Dni-zbor/</link>
-      <pubDate>Wed, 27 May 2020 22:37:36 +0200</pubDate>
-      
-      <guid>/tags/ob%C4%8Dni-zbor/</guid>
       <description></description>
     </item>
     
