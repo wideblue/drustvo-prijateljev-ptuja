@@ -11,4 +11,4 @@ menu:
 
 **Anton Dvoršek**
 
-**Elektronski naslov:  {{% kodiran-naslov naslov="YW50b24uZHZvcnNla0BnbWFpbC5jb20g" %}}**
+**Elektronski naslov:** {{<  kodiran-naslov naslov="YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp" >}}
