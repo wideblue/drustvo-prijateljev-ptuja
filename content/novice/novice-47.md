@@ -45,7 +45,6 @@ Sekretar je predlagal, da vse sklepe pošljemo v potrditev članom v Novicah in 
 
 Zapisnik je pripravil Anton Dvoršek, sekretar društva.
 
-**V primeru, da imate pripombe na sprejete sklepe, jih do 28.5.2020 sporočite**  **Antonu Dvoršku na tel. št.: 031 692 601 ali elektronski naslov:** **[anton.dvorsek@fvv.uni-mb.si](mailto:anton.dvorsek@fvv.uni-mb.si)**
+**V primeru, da imate pripombe na sprejete sklepe, jih do 28.5.2020 sporočite**  **Antonu Dvoršku na tel. št.: 031 692 601 ali elektronski naslov:** {{<  kodiran-naslov naslov="YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp" >}}
 
 Načrtovani izlet po Notranjski žal odpade, organizirali ga bomo v prihodnjem letu. Že zdaj vas vabimo na tradicionalno Martinovanje, podrobnosti sledijo v naslednjih Novicah.
-<!--more-->
