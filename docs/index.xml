@@ -350,7 +350,7 @@ document.write(&#39;&amp;lt;a  class=&amp;quot;&amp;quot;&#39; + atob(liameHREF)
       <guid>/kontakt/</guid>
       <description>Če imate vprašanja ali se želite včlaniti v društvo, se obrnite na:
 Anton Dvoršek
-**Elektronski naslov: var liame =&#39;YW50b24uZHZvcnNla0BnbWFpbC5jb20g&#39;; var liameHREF =&#39;aHJlZj0ibWFpbHRvOg==&#39;; document.write(&#39;&amp;lt;a class=&amp;quot;&amp;quot;&#39; + atob(liameHREF) + atob(liame) + &#39;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&#39; + atob(liame) + &#39;&amp;lt;\/a&amp;gt;&#39;) &amp;lt;/script&amp;gt;** </description>
+Elektronski naslov: var liame =&#39;YW50b24uZHZvcnNla0BmdnYudW5pLW1iLnNp&#39;; var liameHREF =&#39;aHJlZj0ibWFpbHRvOg==&#39;; document.write(&#39;&#39; + atob(liame) + &#39;&#39;)</description>
     </item>
     
     <item>
