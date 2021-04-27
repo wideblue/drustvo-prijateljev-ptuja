@@ -1,5 +1,5 @@
 ---
-title: "NOVICE št. 48/ 2021 ( zapisnik občnega zbora)"
+title: "NOVICE št. 48 2021 ( zapisnik občnega zbora)"
 date: 2021-04-27T12:33:37+02:00
 draft: false
 tags:
