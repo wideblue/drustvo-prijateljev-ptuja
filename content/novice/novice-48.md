@@ -49,4 +49,4 @@ Zapisnik je pripravil Anton Dvoršek, sekretar društva.
 Realizacija načrtovanega izleta bo odvisna od epidemioloških razmer, enako Martinovanje s kulturnim programom. O obojem boste obveščeni v naslednjih Novicah in na spletni strani društva.
 
 Prilagamo položnico za plačilo članarine za leto 2021.
-<!--more-->
+

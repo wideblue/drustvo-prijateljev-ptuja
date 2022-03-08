@@ -29,4 +29,5 @@ Dnevni red:
 Članarina naj bi tudi v letu 2022 ostala 10 evrov. Prilagamo položnico za plačilo članarine, ki jo lahko poravnate tudi na občnem zboru.
 
 **Vljudno vabljeni na občni zbor, 30. 3. 2022 ob 18.uri v M-hotelu, veselimo se ponovnega srečanja z vami.**
+<!--more-->
 
