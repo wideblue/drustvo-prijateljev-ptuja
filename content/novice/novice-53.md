@@ -1,6 +1,6 @@
 ---
-title: "**NOVICE št. 53 - MAJ 2023"
-date: 2023-05-30T10:43:17+02:00
+title: "NOVICE št. 53 - MAJ 2023"
+date: 2023-05-30T10:45:17+02:00
 draft: false
 tags:
   - "Novice"

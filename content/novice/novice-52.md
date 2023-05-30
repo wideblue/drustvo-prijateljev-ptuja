@@ -1,5 +1,5 @@
 ---
-title: "**NOVICE št. 52 - MAREC 2023"
+title: "NOVICE št. 52 - MAREC 2023"
 date: 2023-05-30T10:43:17+02:00
 draft: false
 tags:
